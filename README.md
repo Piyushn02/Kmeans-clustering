@@ -38,9 +38,9 @@ The dataset contains transactional data for a UK-based online retail store from 
 
 ## 📈 Key Findings / Results
 The analysis identified three distinct customer segments:
-- **Cluster 0 (Average Value)**: Customers who transact with moderate frequency and monetary value. *Action: Target with retention offers.*
-- **Cluster 1 (High Value)**: Frequent spenders with high monetary transactions who purchased recently. *Action: Reward with loyalty programs.*
-- **Cluster 2 (Low Value/Lost)**: Customers with low frequency and spend who haven't purchased in a long time. *Action: Re-engagement campaigns.*
+- **Cluster 0- Blue (Average Value)**: Customers who transact with moderate frequency and monetary value. *Action: Target with retention offers.*
+- **Cluster 1- Green (High Value)**: Frequent spenders with high monetary transactions who purchased recently. *Action: Reward with loyalty programs.*
+- **Cluster 2- Red (Low Value/Lost)**: Customers with low frequency and spend who haven't purchased in a long time. *Action: Re-engagement campaigns.*
 
 ## 🚀 How to Run
 1. Clone the repository.
